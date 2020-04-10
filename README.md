@@ -1,3 +1,9 @@
+# maas cert-manager
+
+This is a forked version of Jetstack's cert-manager Helm Chart. It is forked for business continuity
+(should the original be deleted). This repository is used as a submodule in other repositories that
+install and setup Vault. No changes should be required in this repository.
+
 <p align="center"><img src="./logo/logo.png" width="250x" /></p>
 <p align="center"><a href="https://prow.build-infra.jetstack.net/?job=ci-cert-manager-bazel">
 <!-- prow build badge, godoc, and go report card-->
